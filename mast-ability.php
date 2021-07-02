@@ -66,6 +66,7 @@
                     <th>Ability</th>
                     <th>Max Time</th>
                     <th>Action</th>
+			  <th>yellow</th>
                   </tr>
                   </thead>
                   <tbody>
